@@ -1,35 +1,25 @@
-# 2022_CS_Study
-각자 공부한 내용과 코딩스터디 문제 풀이를 올리는 레포입니다.
-</br>
-스터디원 : 남유지, 이주연
+# 2022_CS_Study_juyonLee00
+juyonLee00이 공부한 내용을 올리는 브랜치입니다.
 
 </br>
 
 ## 목표
-- 깃허브 숙지
-- 코딩테스트 합격
+- 클론코딩 pincircle에 사용한 이론 내용 정리
+- c++ 자료구조 공부
+- 알고리즘 문제 3일에 1번은 풀기
 
 </br>
 
 ## 규칙
-- 2022.6.27부터 3일 간격으로 메인 브랜치의 각자 폴더에 소스코드 올리기
+- 2022.6.27부터 2~3일 간격으로 해당 브랜치에 공부 내용이 담긴 소스코드/블로그 글 링크 달기
   - 기한 : 해당 날짜 자정까지
-- 브랜치에 각자 공부한 내용 업로드하기
-- 일정이 있는 경우 업로드 일자 하루 전에 공지하기
 
 </br>
 
-## 공부할 내용
-주연 : 유니티 클론 코딩 코드 복습, c++ 자료구조
+## 공부한 내용-c++(라이브러리, 자료구조, 알고리즘..etc)
+[c++라이브러리_string_1](https://p2-study.tistory.com/36)
 
 </br>
 
-## Contributors
-<div>
-<a href="https://github.com/namyj">
-  <img src="https://github.com/namyj.png" width="50" height="50" >
-</a>
-<a href="https://github.com/juyonLee00">
-  <img src="https://github.com/juyonLee00.png" width="50" height="50" >
-</a>
-
+## 공부한 내용-유니티
+[유니티 엔진에 대한 기본 설명](https://p2-study.tistory.com/37)
