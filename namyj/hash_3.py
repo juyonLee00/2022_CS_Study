@@ -1,9 +1,11 @@
 """
 문제: 위장
 해결: 딕셔너리
-if, top 3, bottom 2
-then, (top 3 + none bottom 1) x (bottom 2 + none top 1) = 6
-6 - (neither top and bottom 1) = 5
+
+솔루션:
+만약 top 3, bottom 2 라면, 
+경우의 수는 (top 3 + bottom을 입지 않을때 1) x (bottom 2 + top을 입지 않을때 1) = 6
+6 - (top과 bottom을 모두 안입은 경우는 제외) = 5
 """
 def solution(clothes):
     answer = 1
