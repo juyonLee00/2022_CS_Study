@@ -1,0 +1,3 @@
+[submodule "namyj/cs_study/cs_study"]
+	path = namyj/cs_study/cs_study
+	url = https://github.com/namyj/cs_study.git
