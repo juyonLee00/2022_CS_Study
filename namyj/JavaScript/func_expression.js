@@ -1,21 +1,21 @@
-// // 함수 표현식
-// // JS는 함수를 특별한 종류의 값으로 취급
-// // case1: 함수 선언식
-// function func1() {
-//     alert("func1");
-// }
+// 함수 표현식
+// JS는 함수를 특별한 종류의 값으로 취급
+// case1: 함수 선언식
+function func1() {
+    alert("func1");
+}
 
-// // case2: 함수 표현식 
-// let func2 = function() {
-//     alert("func2");
-// };
+// case2: 함수 표현식 
+let func2 = function() {
+    alert("func2");
+};
 
-// alert(func2); // 함수 코드를 출력
-// func2() // 함수 호출
+alert(func2); // 함수 코드를 출력
+func2() // 함수 호출
 
-// // 함수 복사
-// let copy_func1 = func1;
-// let copy_func2 = func2;
+// 함수 복사
+let copy_func1 = func1;
+let copy_func2 = func2;
 
 // callback function
 function ask(q, yes, no) {
@@ -57,3 +57,4 @@ sayHi("John"); // error
 let sayHi = function(name) {  // (*) 마술은 일어나지 않습니다.
   alert( `Hello, ${name}` );
 };
+
